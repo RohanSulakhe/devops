@@ -9,3 +9,4 @@
 7.type "git config --global user.email "RohanuSulakhe@gmail.com""
 8.then, to clone give "git clone --code address--"  we can have that code address by simply copying from CODE which is present in our github
 
+finshed
