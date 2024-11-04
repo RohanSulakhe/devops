@@ -9,4 +9,11 @@
 7.type "git config --global user.email "RohanuSulakhe@gmail.com""
 8.then, to clone give "git clone --code address--"  we can have that code address by simply copying from CODE which is present in our github
 
+9.git add [filename].[filetype]
+10.git add .  --to add all the files
+11.git commit -m "first commit" to save
+12.git push origin main  -- to push
+13.git pull origin main --to pull
+
+
 finshed
