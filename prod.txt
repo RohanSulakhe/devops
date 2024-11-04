@@ -1,0 +1,11 @@
+1.Make a folder
+2.Create a repo
+3.crete a file in your git
+4.Open the file present in your windows with VSC
+5.type "ctrl+`" (command terminal will open)
+
+
+6.type "git config --global user.name "RohanSulakhe""
+7.type "git config --global user.email "RohanuSulakhe@gmail.com""
+8.then, to clone give "git clone --code address--"  we can have that code address by simply copying from CODE which is present in our github
+
